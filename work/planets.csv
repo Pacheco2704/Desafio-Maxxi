@@ -1,0 +1,15 @@
+name,rotation_period,orbital_period,diameter,climate,gravity,terrain,surface_water,population,created,edited,url
+tatooine,23,304,10465,arid,1 standard,desert,1,200000,20141209t135049641000z,20141220t205818411000z,httpsswapidevapiplanets1
+alderaan,24,364,12500,temperate,1 standard,grasslands mountains,40,2000000000,20141210t113548479000z,20141220t205818420000z,httpsswapidevapiplanets2
+yavin iv,24,4818,10200,temperate tropical,1 standard,jungle rainforests,8,1000,20141210t113719144000z,20141220t205818421000z,httpsswapidevapiplanets3
+hoth,23,549,7200,frozen,11 standard,tundra ice caves mountain ranges,100,unknown,20141210t113913934000z,20141220t205818423000z,httpsswapidevapiplanets4
+dagobah,23,341,8900,murky,na,swamp jungles,8,unknown,20141210t114222590000z,20141220t205818425000z,httpsswapidevapiplanets5
+bespin,12,5110,118000,temperate,15 surface 1 standard cloud city,gas giant,0,6000000,20141210t114355240000z,20141220t205818427000z,httpsswapidevapiplanets6
+endor,18,402,4900,temperate,085 standard,forests mountains lakes,8,30000000,20141210t115029349000z,20141220t205818429000z,httpsswapidevapiplanets7
+naboo,26,312,12120,temperate,1 standard,grassy hills swamps forests mountains,12,4500000000,20141210t115231066000z,20141220t205818430000z,httpsswapidevapiplanets8
+coruscant,24,368,12240,temperate,1 standard,cityscape mountains,unknown,1000000000000,20141210t115413921000z,20141220t205818432000z,httpsswapidevapiplanets9
+kamino,27,463,19720,temperate,1 standard,ocean,100,1000000000,20141210t124506577000z,20141220t205818434000z,httpsswapidevapiplanets10
+alderaan,24,364,12500,temperate,1 standard,grasslands mountains,40,2000000000,20141210t113548479000z,20141220t205818420000z,httpsswapidevapiplanets2
+yavin iv,24,4818,10200,temperate tropical,1 standard,jungle rainforests,8,1000,20141210t113719144000z,20141220t205818421000z,httpsswapidevapiplanets3
+hoth,23,549,7200,frozen,11 standard,tundra ice caves mountain ranges,100,unknown,20141210t113913934000z,20141220t205818423000z,httpsswapidevapiplanets4
+dagobah,23,341,8900,murky,na,swamp jungles,8,unknown,20141210t114222590000z,20141220t205818425000z,httpsswapidevapiplanets5
